@@ -2,7 +2,13 @@
 
 ![image alt](https://github.com/achill75/HouseBooking/blob/6c2ac5ce91382acf8f4c2b0708502824a3c70b4e/ssreadmeke2.png)
 
-**HouseBooking** adalah aplikasi mobile yang dirancang untuk membantu pengguna menemukan dan memesan properti impian mereka dengan mudah dan cepat. Aplikasi ini menyediakan berbagai pilihan hunian seperti:
+**HouseBooking** 
+Temukan Penginapan Terbaik dari Berbagai Platform dalam Satu Aplikasi!
+
+HouseBooking adalah aplikasi mobile pintar yang memudahkan kamu mencari, membandingkan, dan memesan penginapan dari berbagai situs populer seperti Traveloka, Agoda, Booking.com, Tiket.com, dan lainnya — semuanya dalam satu tempat!
+Dengan HouseBooking, kamu tidak perlu lagi membuka banyak aplikasi untuk menemukan harga terbaik. Cukup satu pencarian, dan kami akan menampilkan berbagai pilihan dari berbagai platform. Praktis, cepat, dan hemat waktu!
+
+Aplikasi ini menyediakan berbagai pilihan hunian seperti:
 
 1. Rumah 🏠  
 2. Apartemen 🏢  

@@ -2,6 +2,13 @@
 
 ![image alt](https://github.com/achill75/HouseBooking/blob/6c2ac5ce91382acf8f4c2b0708502824a3c70b4e/ssreadmeke2.png)
 
+**Kelompok 6**
+---
+Anggota
+- Umei Rahmawati (312310056)
+- Choiriyatun Nisa Latansa (312310652)
+- Choirul Anam 
+
 **HouseBooking** 
 ---
 Temukan Penginapan Terbaik dari Berbagai Platform dalam Satu Aplikasi!

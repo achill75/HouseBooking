@@ -33,4 +33,4 @@ Untuk menginstal dan menjalankan aplikasi ini, ikuti langkah-langkah berikut:
    ```bash
    cd HouseBooking
 3. Open with Android Studio
-   Run app on emulator or device
+   (Run app on emulator or device)

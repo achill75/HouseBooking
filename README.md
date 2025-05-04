@@ -1,3 +1,5 @@
+![image alt](https://github.com/achill75/HouseBooking/blob/16796db129751cc2bd70ea6e3f401344cb8a4e2b/ReadmeHouseBooking.png)
+
 # House Booking Information System
 HouseBooking adalah aplikasi mobile yang dirancang untuk membantu pengguna menemukan dan memesan properti impian mereka dengan mudah dan cepat. Aplikasi ini menyediakan berbagai pilihan hunian seperti :
 1. Rumah 🏘

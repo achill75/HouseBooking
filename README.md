@@ -9,6 +9,9 @@ Anggota
 - Choiriyatun Nisa Latansa (312310652)
 - Choirul Anam (312310033)
 
+  **Link Trello Kelompok**
+[Klik di sini untuk melihat scrum list aggota](https://trello.com/b/qkT8kgrX/bookinghouseapp)
+
 **HouseBooking** 
 ---
 Temukan Penginapan Terbaik dari Berbagai Platform dalam Satu Aplikasi!

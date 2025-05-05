@@ -32,7 +32,7 @@ Dengan antarmuka yang modern dan intuitif, pengguna dapat menjelajahi listing pr
 - Melihat Detail Fasilitas  
 - Mengetahui Harga  
 - Meninjau Luas Properti  
-- Membaca Deskripsi Lengkap  
+- Membaca Deskripsi Lengkap
 - Melakukan Tur Virtual (jika tersedia)
 
 HouseBooking cocok untuk pengguna yang ingin membeli, menyewa, atau hanya menjelajahi pilihan properti yang tersedia.

@@ -10,7 +10,7 @@ Anggota
 - Choirul Anam (312310033)
 
   **Link Trello Kelompok**
-[Klik di sini untuk melihat scrum list aggota](https://trello.com/b/qkT8kgrX/bookinghouseapp)
+[Klik di sini untuk melihat scrum list tiap aggota](https://trello.com/b/qkT8kgrX/bookinghouseapp)
 
 **HouseBooking** 
 ---

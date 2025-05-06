@@ -5,7 +5,7 @@
 **Kelompok 6**
 ---
 Anggota
-- Umei Rahmawati (312310056)
+- Mei Rahmawati (312310056)
 - Choiriyatun Nisa Latansa (312310652)
 - Choirul Anam (312310033)
 

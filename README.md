@@ -10,7 +10,9 @@ Anggota
 - Choirul Anam (312310033)
 
   **Link Trello Anggota Kelompok**
-[Klik di sini untuk melihat scrum list tiap aggota](https://trello.com/b/qkT8kgrX/bookinghouseapp)
+  [Choiriyatun Nisa Latansa](https://trello.com/b/qkT8kgrX/bookinghouseapp)
+  [Mei Rahmawati](https://trello.com/b/dkNXSihP/bookinghouseapp)
+  [Choirul Anam]( )
 
 **HouseBooking** 
 ---

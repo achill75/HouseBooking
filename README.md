@@ -11,10 +11,8 @@ Anggota
 
   **Link Trello Anggota Kelompok**
   ---
-  [Choiriyatun Nisa Latansa](https://trello.com/b/qkT8kgrX/bookinghouseapp)
-  ---
-  [Mei Rahmawati](https://trello.com/b/dkNXSihP/bookinghouseapp)
-  ---
+  [Choiriyatun Nisa Latansa](https://trello.com/b/qkT8kgrX/bookinghouseapp)  
+  [Mei Rahmawati](https://trello.com/b/dkNXSihP/bookinghouseapp)  
   [Choirul Anam]( )
 
 **HouseBooking** 

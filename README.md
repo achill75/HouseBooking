@@ -6,7 +6,7 @@
 ---
 Anggota
 - Mei Rahmawati (312310056)
-- Choiriyatun Nisa Latansa (312310652)
+- Choiriyatun Nisa Latansa (312310652) k
 - Choirul Anam (312310033)
 
   **Link Trello Kelompok**

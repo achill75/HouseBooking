@@ -5,9 +5,9 @@
 **Kelompok 6**
 ---
 Anggota
-- Mei Rahmawati (312310056)
-- Choiriyatun Nisa Latansa (312310652)
-- Choirul Anam (312310033)
+- Mei Rahmawati (312310056) 👉🏻 Functionality Developer
+- Choiriyatun Nisa Latansa (312310652) 👉🏻 UI/UX
+- Choirul Anam (312310033) 👉🏻 Interaction & Local Data Handler
 
   **Link Trello Anggota Kelompok**
   ---

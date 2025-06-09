@@ -2,6 +2,14 @@
 
 ![image alt](https://github.com/achill75/HouseBooking/blob/6c2ac5ce91382acf8f4c2b0708502824a3c70b4e/ssreadmeke2.png)
 
+---
+## 🌀 Loading...
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="80%" />
+</p>
+
+---
 **Kelompok 6**
 ---
 Anggota
